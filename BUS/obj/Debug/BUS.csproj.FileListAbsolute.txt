@@ -1,0 +1,11 @@
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\bin\Debug\BUS.dll
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\bin\Debug\BUS.pdb
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\bin\Debug\DAL.dll
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\bin\Debug\DTO.dll
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\bin\Debug\DAL.pdb
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\bin\Debug\DTO.pdb
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\obj\Debug\BUS.dll
+D:\University\Twoyear\LapTrinh.Net\Three_layer\BUS\obj\Debug\BUS.pdb

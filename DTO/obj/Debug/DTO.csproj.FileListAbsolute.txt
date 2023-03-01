@@ -1,0 +1,6 @@
+D:\University\Twoyear\LapTrinh.Net\Three_layer\DTO\bin\Debug\DTO.dll
+D:\University\Twoyear\LapTrinh.Net\Three_layer\DTO\bin\Debug\DTO.pdb
+D:\University\Twoyear\LapTrinh.Net\Three_layer\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\University\Twoyear\LapTrinh.Net\Three_layer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\University\Twoyear\LapTrinh.Net\Three_layer\DTO\obj\Debug\DTO.dll
+D:\University\Twoyear\LapTrinh.Net\Three_layer\DTO\obj\Debug\DTO.pdb
